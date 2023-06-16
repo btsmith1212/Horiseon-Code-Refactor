@@ -1,4 +1,5 @@
 @-ms-viewport{ width: device-width; }
+/* added viewport to link to html*/
 
 * {
     box-sizing: border-box;
@@ -9,6 +10,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* edited to link to html correctly */
 
 .header {
     padding: 20px;
@@ -16,6 +18,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+/* condensed existing classes */
 
 .header h1 {
     display: inline-block;
@@ -33,15 +36,18 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+/* edited to link to html correctly */
 
 .header nav ul {
     list-style-type: none;
 }
+/* edited to link to html correctly */
 
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* edited to link to html correctly */
 
 .team {
     height: 800px;
@@ -51,6 +57,7 @@ body {
     background-size: cover;
     background-position: center;
 }
+/* condensed existing classes, edited to link to html correctly */
 
 .content {
     width: 75%;
@@ -85,15 +92,18 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* condensed existing classes, edited to link to html correctly */
 
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* edited to link to html correctly */
 
 .services img {
     max-height: 200px;
 }
+/* edited to link to html correctly */
 
 .benefits {
     margin-right: 20px;
@@ -105,22 +115,26 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/* condensed existing classes, edited to link to html correctly */
 
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/* edited to link to html correctly */
 
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+/* edited to link to html correctly */
 
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* edited to link to html correctly */
 
 .footer {
     padding: 30px;
