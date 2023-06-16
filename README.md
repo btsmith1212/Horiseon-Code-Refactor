@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a code refactor of an existing website.
+This is a code refactor of an existing website. In this project I transposed semantic HTML elements, re-ordered them to follow a logical structure independent of styling and positioning, added alt attributes to images, and organized heading attributes into sequential order. I also added a viewport for additional useability, and reorganized and cleaned up the code throughout to be more concise.
 
 ## Installation
 
