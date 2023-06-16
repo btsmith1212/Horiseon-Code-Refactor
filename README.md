@@ -20,6 +20,9 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-## Code Source
+## Code Sources
+
+https://btsmith1212.github.io/Horiseon-Code-Refactor/
+https://github.com/btsmith1212/Horiseon-Code-Refactor.git
 
 
