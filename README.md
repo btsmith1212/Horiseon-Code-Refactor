@@ -25,4 +25,8 @@ Please refer to the LICENSE in the repo.
 https://btsmith1212.github.io/Horiseon-Code-Refactor/
 https://github.com/btsmith1212/Horiseon-Code-Refactor.git
 
+## Screenshot
+
+<img width="959" alt="horiseon screenshot" src="https://github.com/btsmith1212/Horiseon-Code-Refactor/assets/135077506/0e768730-82eb-425f-9177-8b7b900943de">
+
 
